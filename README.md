@@ -24,6 +24,7 @@
 * bash
 * Copy code
 * git clone https://github.com/ashugupta1/Task-Management-Application-Backend.git
+* git clone https://github.com/ashugupta1/Task-Management-Application-frontend.git
 * cd task-manager
 2. Set up the backend
 * Navigate to the backend folder and install dependencies:
